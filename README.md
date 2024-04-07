@@ -1,2 +1,3 @@
-- Arquivos que usei o PORTUGOL pra criar.
+- Arquivos que usei o PORTUGOL no VisualG pra criar.
 -  Apenas para estudo.
+-  Exportado para o Pascal.
