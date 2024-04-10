@@ -1,0 +1,49 @@
+Algoritmo "troco"
+
+
+
+Var
+
+   preco, dinheiro, troco, total : real
+   quantidade : inteiro
+
+
+
+
+
+Inicio
+
+     escreva("Preco o unitario do produto: ")
+     leia(preco)
+     
+     escreva("Quantidade comprada: ")
+     leia(quantidade)
+     
+     escreva("Dinheiro recebido: ")
+     leia(dinheiro)
+     
+     total <- preco * quantidade
+
+     troco <- dinheiro - total
+
+     escreval("TROCO = R$", troco)
+     
+     
+
+     
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fimalgoritmo
