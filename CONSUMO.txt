@@ -1,0 +1,32 @@
+Algoritmo "semnome"
+
+Var
+
+
+
+ nome : caractere
+ distancia, gasto, media : real
+ 
+
+Inicio
+
+      escreva("Distancia percorrida: ")
+      leia(distancia)
+      
+      escreva("Combustivel gasto: ")
+      leia(gasto)
+      
+      
+     media <- distancia / gasto
+      
+      
+      
+      escreval("Consumo medio = ", media:6:3 )
+      
+
+
+
+
+
+
+Fimalgoritmo
