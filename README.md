@@ -1,2 +1,1 @@
 - Trabalhos feitos com a linguagem PORTUGUOL no VisualG.
-- Exportado para o Pascal.
